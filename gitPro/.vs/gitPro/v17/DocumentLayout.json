@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12265\\Desktop\\git\\gitPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80A8AC1C-8FFE-4936-A0AE-BED64D4C8A48}|gitPro\\gitPro.vcxproj|C:\\Users\\12265\\Desktop\\git\\gitPro\\gitPro\\gitPro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A8AC1C-8FFE-4936-A0AE-BED64D4C8A48}|gitPro\\gitPro.vcxproj|solutionrelative:gitPro\\gitPro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gitPro.cpp",
+              "DocumentMoniker": "C:\\Users\\12265\\Desktop\\git\\gitPro\\gitPro\\gitPro.cpp",
+              "RelativeDocumentMoniker": "gitPro\\gitPro.cpp",
+              "ToolTip": "C:\\Users\\12265\\Desktop\\git\\gitPro\\gitPro\\gitPro.cpp",
+              "RelativeToolTip": "gitPro\\gitPro.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T21:55:17.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
