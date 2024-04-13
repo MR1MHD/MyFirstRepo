@@ -1,2 +1,3 @@
 # MyFirstRepo
-A-06
+this is Assignment 6 - RCS Integration
+
